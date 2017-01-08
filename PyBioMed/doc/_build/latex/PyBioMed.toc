@@ -1,0 +1,113 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Overview}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Who uses PyBioMed?}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Goals}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Feature overview}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}The Python programming language}{5}{section.1.4}
+\contentsline {chapter}{\numberline {2}Getting Started with PyBioMed}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Installing the PyBioMed package}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Getting molecules}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Getting molecular structure}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Reading molecules}{8}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Getting protein sequence}{8}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Reading protein sequence}{9}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Getting DNA sequence}{9}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Reading DNA sequence}{9}{subsection.2.2.6}
+\contentsline {section}{\numberline {2.3}Pretreating structure}{9}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Pretreating molecules}{10}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Pretreating protein sequence}{10}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Pretreating DNA sequence}{11}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Calculating molecular descriptors}{11}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Calculating descriptors}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Calculating molecular descriptors via functions}{12}{subsubsection*.3}
+\contentsline {subsubsection}{Calculating molecular descriptors via PyMolecule object}{12}{subsubsection*.4}
+\contentsline {subsection}{\numberline {2.4.2}Calculating molecular fingerprints}{13}{subsection.2.4.2}
+\contentsline {subsubsection}{Calculating fingerprint via functions}{13}{subsubsection*.5}
+\contentsline {subsubsection}{Calculating fingerprint via object}{14}{subsubsection*.6}
+\contentsline {section}{\numberline {2.5}Calculating protein descriptors}{14}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Calculating protein descriptors via functions}{14}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Calculate protein descriptors via object}{15}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Calculating DNA descriptors}{16}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Calculating DNA descriptors via functions}{16}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Calculating DNA descriptors via object}{16}{subsection.2.6.2}
+\contentsline {section}{\numberline {2.7}Calculating Interaction descriptors}{17}{section.2.7}
+\contentsline {chapter}{\numberline {3}Application}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Application 1 Prediction of Caco-2 Cell Permeability}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Application 2 Prediction of aqueous solubility}{23}{section.3.2}
+\contentsline {section}{\numberline {3.3}Application 3 Prediction of drug\IeC {\textendash }target interaction from the integration of chemical and protein spaces}{25}{section.3.3}
+\contentsline {section}{\numberline {3.4}Application 4 Prediction of protein subcellular location}{28}{section.3.4}
+\contentsline {section}{\numberline {3.5}Application 5 Predicting nucleosome positioning in genomes with dinucleotide-based auto covariance}{30}{section.3.5}
+\contentsline {chapter}{\numberline {4}PyBioMed API}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}PyDNA}{33}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}PyDNAac module}{33}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}PyDNAacutil module}{34}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}PyDNAnac module}{35}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}PyDNAnacutil module}{35}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}PyDNApsenac module}{36}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}PyDNApsenacutil module}{39}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}PyDNAutil module}{39}{subsection.4.1.7}
+\contentsline {section}{\numberline {4.2}PyMolecule}{41}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}AtomProperty module}{41}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}AtomTypes module}{41}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}basak module}{42}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}bcut module}{43}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}cats2d module}{44}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}charge module}{45}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}connectivity module}{50}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}constitution module}{59}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}estate module}{65}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}fingerprint module}{66}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.11}geary module}{70}{subsection.4.2.11}
+\contentsline {subsection}{\numberline {4.2.12}ghosecrippen module}{71}{subsection.4.2.12}
+\contentsline {subsection}{\numberline {4.2.13}kappa module}{72}{subsection.4.2.13}
+\contentsline {subsection}{\numberline {4.2.14}moe module}{74}{subsection.4.2.14}
+\contentsline {subsection}{\numberline {4.2.15}molproperty module}{76}{subsection.4.2.15}
+\contentsline {subsection}{\numberline {4.2.16}moran module}{78}{subsection.4.2.16}
+\contentsline {subsection}{\numberline {4.2.17}moreaubroto module}{79}{subsection.4.2.17}
+\contentsline {subsection}{\numberline {4.2.18}topology module}{80}{subsection.4.2.18}
+\contentsline {subsection}{\numberline {4.2.19}Scaffolds module}{86}{subsection.4.2.19}
+\contentsline {section}{\numberline {4.3}PyProtein}{87}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}PyProtein module}{87}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}AAComposition module}{91}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}AAIndex module}{92}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Autocorrelation module}{93}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}CTD module}{100}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}ConjointTriad module}{105}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}GetProteinFromUniprot module}{106}{subsection.4.3.7}
+\contentsline {subsection}{\numberline {4.3.8}GetSubSeq module}{107}{subsection.4.3.8}
+\contentsline {subsection}{\numberline {4.3.9}ProCheck module}{107}{subsection.4.3.9}
+\contentsline {subsection}{\numberline {4.3.10}PseudoAAC module}{108}{subsection.4.3.10}
+\contentsline {subsection}{\numberline {4.3.11}PyProteinAAComposition module}{110}{subsection.4.3.11}
+\contentsline {subsection}{\numberline {4.3.12}PyProteinAAIndex module}{111}{subsection.4.3.12}
+\contentsline {subsection}{\numberline {4.3.13}QuasiSequenceOrder module}{112}{subsection.4.3.13}
+\contentsline {section}{\numberline {4.4}PyPretreat}{116}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}PyPretreatDNA module}{116}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}PyPretreatMol module}{117}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}PyPretreatMolutil module}{120}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}PyPretreatPro module}{121}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.5}PyInteraction}{121}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}PyInteraction module}{121}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}PyGetMol}{122}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}GetProtein module}{122}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}GetDNA module}{123}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Getmol module}{124}{subsection.4.6.3}
+\contentsline {section}{\numberline {4.7}test package}{125}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}test module}{125}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}test\_PyBioMed module}{125}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}test\_PyDNA module}{125}{subsection.4.7.3}
+\contentsline {subsection}{\numberline {4.7.4}test\_PyInteration module}{126}{subsection.4.7.4}
+\contentsline {subsection}{\numberline {4.7.5}test\_PyMolecule module}{126}{subsection.4.7.5}
+\contentsline {subsection}{\numberline {4.7.6}test\_PyPretreat module}{126}{subsection.4.7.6}
+\contentsline {subsection}{\numberline {4.7.7}test\_PyProtein module}{126}{subsection.4.7.7}
+\contentsline {subsection}{\numberline {4.7.8}test\_PyGetMol module}{126}{subsection.4.7.8}
+\contentsline {chapter}{\numberline {5}Testing}{127}{chapter.5}
+\contentsline {section}{\numberline {5.1}Requirements for testing}{127}{section.5.1}
+\contentsline {section}{\numberline {5.2}Testing an installed package}{127}{section.5.2}
+\contentsline {chapter}{\numberline {6}Download}{129}{chapter.6}
+\contentsline {section}{\numberline {6.1}Python Package}{129}{section.6.1}
+\contentsline {section}{\numberline {6.2}Documentation}{129}{section.6.2}
+\contentsline {section}{\numberline {6.3}The introduction of descriptors}{129}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Molecular descriptors introduction}{129}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Protein descriptors introduction}{129}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}DNA descriptors introduction}{129}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Interaction descriptors introduction}{129}{subsection.6.3.4}
