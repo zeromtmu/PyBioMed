@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 02 15:38:19 2016
-
-@author: yzj
-"""
-
-'''
 This module is used for obtaining the properties of amino acids or their pairs
 
 from the aaindex database. You can freely use and distribute it. If you hava 
@@ -17,8 +11,7 @@ Authors: Zhijiang Yao and Dongsheng Cao.
 Date: 2016.06.04
 
 Email: gadsby@163.com
- 
-'''
+"""
  
 import sys, os, string
 

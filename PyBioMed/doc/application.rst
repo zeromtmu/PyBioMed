@@ -32,8 +32,8 @@ Caco-2 cell monolayer model is a popular surrogate in predicting the in vitro hu
 	#==============================================================================
 	# load the data
 	#==============================================================================
-	train_set = pd.read_excel('D:/PyBioMed/PyBioMed-1.0/PyBioMed/example/caco2/caco2.xlsx',sheetname=0)
-	test_set = pd.read_excel('D:/PyBioMed/PyBioMed-1.0/PyBioMed/example/caco2/caco2.xlsx',sheetname=1)
+	train_set = pd.read_excel('D:/PyBioMed/PyBioMed-1.0/PyBioMed/example/caco2/caco2.xlsx',sheetname=0) #change the path to the real path
+	test_set = pd.read_excel('D:/PyBioMed/PyBioMed-1.0/PyBioMed/example/caco2/caco2.xlsx',sheetname=1) #change the path to the real path
 
 	train_set_smi = train_set['smi']
 	test_set_smi = test_set['smi']

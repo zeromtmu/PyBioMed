@@ -27,11 +27,11 @@ prediction: new methods of statistical classification. Proc Int Conf Intell Syst
 
 Biol, 106-112.
 
-Authors: Dongsheng Cao and Yizeng Liang.
+Authors: Dongsheng Cao and Zhijiang Yao.
 
-Date: 2012.3.27
+Date: 2016.7.27
 
-Email: oriental-cds@163.com
+Email: oriental-cds@163.com and gadsby@163.com
 
 ###############################################################################
 """

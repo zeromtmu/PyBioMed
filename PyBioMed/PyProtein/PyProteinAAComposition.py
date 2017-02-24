@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 02 10:00:35 2016
-
-@author: yzj
-"""
-
-"""
 ###############################################################################
 
 The module is used for computing the composition of amino acids, dipetide and 

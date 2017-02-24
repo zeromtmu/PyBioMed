@@ -14,7 +14,7 @@ Documentation
 ~~~~~~~~~~~~~
 *PDF*
 
-https://github.com/gadsbyfly/PyBioMed/blob/master/doc/Descriptor introduction/PyBioMedDocumentation.pdf
+https://github.com/gadsbyfly/PyBioMed/tree/master/PyBioMed/download/PyBioMedDocumentation.pdf
 
 The introduction of descriptors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

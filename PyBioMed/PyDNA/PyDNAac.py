@@ -1,8 +1,20 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May 19 01:05:29 2016
+##############################################################################
 
-@author: yzj
+A class used for computing different types of DNA descriptors! 
+
+You can freely use and distribute it. If you have any problem, 
+
+you could contact with us timely.
+
+Authors: Zhijiang Yao and Dongsheng Cao.
+
+Date: 2016.07.11
+
+Email: gadsby@163.com and oriental-cds@163.com
+
+##############################################################################
 """
 
 from PyDNAutil import GetData, GeneratePhycheValue

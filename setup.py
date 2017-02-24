@@ -2,7 +2,7 @@ from distutils.core import setup
 import sys
 
 packagedata={'PyBioMed': ['PyDNA/*','PyGetMol/*','PyInteraction/*','PyPretreat/*',
-			'PyProtein/*','PyMolecule/*','PyMolecule/*', 'test/*','test/test_data/*', 'example/caco2/*','example/dna/*', 'example/dpi/*', 'example/solubility/*', 'example/subcell/*', 'doc/html/*', 'doc/tml/_sources/*', 'doc/html/_sources/reference/*' , 'doc/html/_images/*','doc/html/_modules/*', 'doc/html/_static/*', 'doc/html/reference/*']}
+			'PyProtein/*','PyMolecule/*','PyMolecule/*', 'test/*','test/test_data/*', 'example/caco2/*','example/dna/*', 'example/dpi/*', 'example/solubility/*', 'example/subcell/*', 'doc/html/*', 'doc/tml/_sources/*', 'doc/html/_sources/reference/*' , 'doc/html/_images/*','doc/html/_modules/*', 'doc/html/_static/*', 'doc/html/reference/*','doc/*']}
 
 setup(name='PyBioMed',
 

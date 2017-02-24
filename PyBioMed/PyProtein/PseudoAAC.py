@@ -40,19 +40,6 @@ Date: 2016.06.04
 
 Email: gadsby@163.com
 
-
-The hydrophobicity values are from JACS, 1962, 84: 4240-4246. (C. Tanford).
-
-The hydrophilicity values are from PNAS, 1981, 78:3824-3828 (T.P.Hopp & K.R.Woods).
-
-The side-chain mass for each of the 20 amino acids.
-
-CRC Handbook of Chemistry and Physics, 66th ed., CRC Press, Boca Raton, Florida (1985).
-
-R.M.C. Dawson, D.C. Elliott, W.H. Elliott, K.M. Jones, Data for Biochemical Research 3rd ed., 
-
-Clarendon Press Oxford (1986).
-
 #########################################################################################
 """
 
